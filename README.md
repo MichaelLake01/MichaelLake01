@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichaelLake01
-- 👀 I’m interested in Web development and programming
-- 🌱 I’m currently learning more about web development
-- Forever learning, forever growing 🚀 Schooled and self-taught 🎓
+- 👀 I’m interested in Python and webscraping
+
+
 
 
 <!---
